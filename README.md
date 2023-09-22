@@ -1,13 +1,13 @@
-<h1 align="left">Olá, sou Júlia Rodrigues :carousel_horse: </h1> 
+<h1 align="left">Olá, sou o Mateus Rosolem :carousel_horse: </h1> 
 
 Estudante de Ciência da Computação na Unesp (3º semestre).
 <br>Aprendendo Front (HTML, SASS, CSS e JavaScript) e Java (Programação Orientada a Objetos).
 <br>Começando um Projeto de Iniciação Científica sobre Inteligência Artificial aplicada em algoritmos de Sensoriamento Remoto (Python).
 
 <div>
-  <a href="https://github.com/juliarmn">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliarmn&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliarmn&layout=compact&langs_count=9&count_private=true&theme=bear"/>
+  <a href="https://github.com/MateusRosolem">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusRosolem&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusRosolem&layout=compact&langs_count=9&count_private=true&theme=bear"/>
  </div>
   
   <br>
