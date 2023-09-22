@@ -21,7 +21,4 @@ Estudante de Ciência da Computação na Unesp (4º semestre).
 
   </div>
 
-  ##
-  
-![Snake animation](https://github.com/MateusRosolem/MateusRosolem/blob/output/github-contribution-grid-snake.svg)
-
+ 
