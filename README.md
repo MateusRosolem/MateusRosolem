@@ -1,8 +1,7 @@
 <h1 align="left">Olá, sou o Mateus Rosolem :carousel_horse: </h1> 
 
-Estudante de Ciência da Computação na Unesp (3º semestre).
-<br>Aprendendo Front (HTML, SASS, CSS e JavaScript) e Java (Programação Orientada a Objetos).
-<br>Começando um Projeto de Iniciação Científica sobre Inteligência Artificial aplicada em algoritmos de Sensoriamento Remoto (Python).
+Estudante de Ciência da Computação na Unesp (4º semestre).
+<br>Aprendendo C, Python, Front (HTML, CSS e JavaScript) e Java (Programação Orientada a Objetos).
 
 <div>
   <a href="https://github.com/MateusRosolem">
@@ -24,8 +23,5 @@ Estudante de Ciência da Computação na Unesp (3º semestre).
 
   ##
   
-![Snake animation](https://github.com/juliarmn/juliarmn/blob/output/github-contribution-grid-snake.svg)
-<!---
-juliarmn/juliarmn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Snake animation](https://github.com/MateusRosolem/MateusRosolem/blob/output/github-contribution-grid-snake.svg)
+
