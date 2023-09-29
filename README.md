@@ -1,4 +1,7 @@
-<h1 align="left">Olá, sou o Mateus Rosolem :carousel_horse: </h1> 
+## Olá, sou o Mateus Rosolem, desde o intel Celeron apaixonado por tecnologias!👨‍💻 </br>Cursando Ciência da Computação na **UNESP/IBILCE**
+
+
+<h1 align="left">:carousel_horse: </h1> 
 
 Estudante de Ciência da Computação na Unesp (4º semestre).
 <br>Aprendendo C, Python, Front (HTML, CSS e JavaScript) e Java (Programação Orientada a Objetos).
@@ -19,6 +22,14 @@ Estudante de Ciência da Computação na Unesp (4º semestre).
     <img style="padding:0 1rem 0 0" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img style="padding:0 1rem 0 0" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 
-  </div>
+<div> 
+  <a href="https://www.instagram.com/mateusrosolem/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:mateusrosolem@gmail.com"><img src="https://img.shields.io/badge/-Hotmail-00c8ff?style=for-the-badge&logo=mail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/mateus-rosolem-8a0a10b5" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">   </a> 
+</div>
+</div>
 
- 
+
+
+
+  
