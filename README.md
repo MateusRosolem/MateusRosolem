@@ -1,7 +1,7 @@
 ## Olá, sou o Mateus Rosolem, desde o intel Celeron apaixonado por tecnologias!👨‍💻 </br>Cursando Ciência da Computação na **UNESP/IBILCE**
 
 
-<h1 align="left">:carousel_horse: </h1> 
+
 
 Estudante de Ciência da Computação na Unesp (4º semestre).
 <br>Aprendendo C, Python, Front (HTML, CSS e JavaScript) e Java (Programação Orientada a Objetos).
