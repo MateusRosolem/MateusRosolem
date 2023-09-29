@@ -1,4 +1,4 @@
-## Olá, sou o Mateus Rosolem, desde o intel Celeron apaixonado por tecnologias!👨‍💻 </br>Cursando Ciência da Computação na **UNESP/IBILCE**
+## Olá, sou o Mateus Rosolem, desde o intel Celeron🤓 apaixonado por tecnologias!👨‍💻 </br>Cursando Ciência da Computação na **UNESP/IBILCE**
 
 
 
