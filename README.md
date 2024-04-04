@@ -24,8 +24,8 @@ Estudante de Ciência da Computação na Unesp (4º semestre).
 
 <div> 
   <a href="https://www.instagram.com/mateusrosolem/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:mateusrosolem@gmail.com"><img src="https://img.shields.io/badge/-Hotmail-00c8ff?style=for-the-badge&logo=mail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/mateus-rosolem-8a0a10b5" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">   </a> 
+  <a href = "mailto:mateusrosolem@gmail.com"  target="_blank"><img src="https://img.shields.io/badge/-Hotmail-00c8ff?style=for-the-badge&logo=mail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/mateusrosolem/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">   </a> 
 </div>
 </div>
 
